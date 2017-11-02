@@ -7,3 +7,13 @@ You can use this classifier to automatically label whether an image taken is of 
 ![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test1.jpg  "Tiger")
 ![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test4.jpg  "Jaguar")
 
+## Requirements
+
+* [docker](https://www.docker.com/products/docker-toolbox)
+
+## Usage 
+
+1. Start the docker image `docker run -it -v [path_to_project]/tf_files/images:/images/ gcr.io/tensorflow/tensorflow:latest-devel`
+2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
+
+
