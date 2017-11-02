@@ -1,1 +1,2 @@
 # Tensorflow-image-classification 
+This is the repository developed for 'Image Classifier in TensorFlow in 5 Min on [Youtube](https://www.youtube.com/watch?v=QfNvhPx5Px8) using this [CodeLab](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.tensorflow.org%2Fversions%2Fr0.9%2Fhow_tos%2Fimage_retraining%2Findex.html&redir_token=ZyQsM3mLlHG-r7oSkI60DehLLxt8MTUwOTczNjY2MUAxNTA5NjUwMjYx&event=video_description&v=QfNvhPx5Px8) by Google as a guide
