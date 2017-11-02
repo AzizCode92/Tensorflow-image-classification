@@ -33,4 +33,4 @@ with tf.Session() as sess:
         human_string = label_lines[node_id]
         score = predictions[0][node_id]
 print('%s (score = %.5f)' % (human_string, score))
-print('%s (score = %.5f)' % (human_string,predictions[1][node_id] ))
+
