@@ -4,8 +4,8 @@ This is the repository developed for 'Image Classifier in TensorFlow in 5 Min on
 You can use this classifier to automatically label whether an image taken is of a Tiger or a Jaguar. 
 
  
-![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test1.jpg  "Tiger")
-![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test4.jpg  "Jaguar")
+![es](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test1.jpg  "Tiger")
+![es](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test4.jpg  "Jaguar")
 
 ## Requirements
 
@@ -17,6 +17,9 @@ You can use this classifier to automatically label whether an image taken is of 
 2. Run the label_image script to label the image. `python /tf_files/label_image.py <path_to_file>`
 
 ## Results
+![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test4_acc.png  "Test Accuracy(Jaguar)")
+
+![el](https://github.com/AzizCode92/Tensorflow-image-classification/blob/master/test1_acc.png  "Test Accuracy(Tiger)")
 
 
 
